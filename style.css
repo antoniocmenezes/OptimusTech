@@ -363,5 +363,10 @@ a {
         display: flex;
         flex-direction: column;
         gap: 9px;
+        justify-content: center;
+    }
+
+    .rodape__botao {
+        width: 300px;
     }
 }
